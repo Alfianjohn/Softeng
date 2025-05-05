@@ -1,0 +1,10 @@
+.mobile-responsive {
+    width: 50%;
+    margin-inline: auto;
+}
+
+@media (max-width: 768px) {
+    .mobile-responsive {
+        width: 100%;
+    }
+}
